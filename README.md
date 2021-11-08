@@ -19,8 +19,10 @@ visando assim uma melhora de qualidade em relação a necessidade do usuário em
  <img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic2.png?v=1636350913140" width="40%">
 <br>
   
-5- in the end of notebook have the answer for 4 questions.<br>
+<h4>5- in the end of notebook have the answer for 4 questions.<br>
 </h4>
+  
+  <h1>Em portugues</h1>
 Primeiro Jeito de consultar o notebook<br>
 1-Git clone no projeto e acesse a pasta data, nela tera os 2 arquivos csv necessarios(Favor não alterar o nome destes csv).<br>
 2-Abra o google colab no seu navegador, depois disso abra o notebook que você baixou.<br>
