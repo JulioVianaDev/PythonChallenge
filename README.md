@@ -13,13 +13,19 @@ visando assim uma melhora de qualidade em relação a necessidade do usuário em
 2-Open the google colab in your browser, and after open the notebook that you download<br>
 3-In the folder will have a file called "Tatic_oficial.ipynb", open in your colab <br>
 4-Click where the arrow is pointing, after in red circle and upload of the 2 csv, just select them to upload.<br>
-  <img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic.png?v=1636350721178">
-
+<h3>image 1</h3> <br>
+<img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic.png?v=1636350721178" width="40%"><br>
+  <h3>image 2</h3> <br>
+ <img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic2.png?v=1636350913140" width="40%">
+<br>
 </h4>
 Primeiro Jeito de consultar o notebook<br>
 1-Git clone no projeto e acesse a pasta data, nela tera os 2 arquivos csv necessarios(Favor não alterar o nome destes csv).<br>
 2-Abra o google colab no seu navegador, depois disso abra o notebook que você baixou.<br>
 3-Na pasta que você baixou, terá um arquivo chamado "Tatic_oficial.ipynb", abra ele em seu colab e divirta-se<br>
-4-clique onde a seta está apontando, depois no círculo vermelho e faça o upload dos 2 csv, basta selecioná-los para fazer o upload
-<img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic.png?v=1636350721178">
+4-clique onde a seta está apontando, depois no círculo vermelho e faça o upload dos 2 csv, basta selecioná-los para fazer o upload<br>
+<h3>imagem 1</h3> <br>
+<img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic.png?v=1636350721178" width="40%"><br>
+  <h3>imagem 2</h3> <br>
+ <img src="https://cdn.glitch.me/3643647e-2aa8-4e36-9337-1462f1ee3138%2Ftatic2.png?v=1636350913140" width="40%">
 </div>
